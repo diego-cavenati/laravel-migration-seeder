@@ -1,1 +1,13 @@
 @import '~bootstrap/scss/bootstrap';
+
+.col-table {
+    box-shadow: blue 0px 0px 0px 2px inset, rgb(255, 255, 255) 10px -10px 0px -3px, rgb(31, 193, 27) 10px -10px, rgb(255, 255, 255) 20px -20px 0px -3px, rgb(255, 217, 19) 20px -20px;
+    padding: 2rem;
+    border-radius: 2rem;
+    margin-top: 7rem;
+}
+
+table {
+    width: 100%;
+    border: none;
+}
